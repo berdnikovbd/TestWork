@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "20KFte3NcwyJTeNFbACDHLEHsu44A/iCSHzeKxxslGzodDdDPHr84lVczyNM/W+Q/g04P3f8iiD7rQ7KH/PgOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bidwim\\source\\repos\\LoggerExample\\LoggerExample\\LoggerExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bidwim\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

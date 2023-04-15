@@ -1,0 +1,15 @@
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\bin\Debug\net6.0\SmartLogging.deps.json
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\bin\Debug\net6.0\SmartLogging.dll
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\bin\Debug\net6.0\SmartLogging.pdb
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\bin\Debug\net6.0\LoggerCore.dll
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\bin\Debug\net6.0\LoggerCore.pdb
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.csproj.AssemblyReference.cache
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.AssemblyInfoInputs.cache
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.AssemblyInfo.cs
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.csproj.CoreCompileInputs.cache
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.csproj.CopyComplete
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.dll
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\refint\SmartLogging.dll
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\SmartLogging.pdb
+C:\Users\Bidwim\source\repos\LoggerExample\SmartLogger\obj\Debug\net6.0\ref\SmartLogging.dll

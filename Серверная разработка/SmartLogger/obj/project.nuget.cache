@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+mdgP5r/82oJ5OYhIMS0LKl4PV9NUC/Ied7W++ubaUkrgWrXCplWQ43A/XuNGm5XcjSl/rK9OLT7TmTZC7rnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bidwim\\source\\repos\\LoggerExample\\SmartLogger\\SmartLogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bidwim\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

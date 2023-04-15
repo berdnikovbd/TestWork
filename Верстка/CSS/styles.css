@@ -1,0 +1,58 @@
+.site-text {
+    font-family: 'Segoe UI';
+}
+
+.banner-small-text {
+    font-weight: 500;
+    font-size: 24px; 
+    line-height: 32px;
+    letter-spacing: 1px;
+}
+
+.text-block {
+    font-size: 16px;
+    line-height: 21px
+}
+
+.semi-bold {
+    font-weight: 510;
+}
+
+.table-cell-no-padding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+@media (min-width: 992px) {
+.h-lg-75 {
+height:75%!important;
+}
+}
+
+.card-img-style {
+    width: 120px;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    object-fit: cover;
+}
+
+.card-title-text {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 27px;
+    text-align: center
+}
+
+.card-description {
+    font-size: 16px;
+    line-height: 21px;
+    font-style: oblique;
+    font-weight: 510;
+    text-align: center
+}
+
+.footer-text {
+    font-size: 12px;
+    line-height: 16px;
+}

@@ -1,0 +1,130 @@
+{ "time": "2023-04-15 08:19:29.5155", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение суммы 1 и 2" }
+{ "time": "2023-04-15 08:19:29.5764", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 1" }
+{ "time": "2023-04-15 08:19:29.5764", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:19:29.5764", "level": "DEBUG", "message": "IntNumber 1 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 2" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "IntNumber 2 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "IntNumber 3 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Суммирование LoggerExample.Models.IntNumber и LoggerExample.Models.IntNumber прошло успешно" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 2" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 2" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "DoubleNumber 2 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "DoubleNumber 1,5 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 0" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 0" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:19:29.5856", "level": "DEBUG", "message": "DoubleNumber 0 создано." }
+{ "time": "2023-04-15 08:19:29.6274", "level": "ERROR", "message": "System.DivideByZeroException: деление на ноль" }
+{ "time": "2023-04-15 08:19:29.6583", "level": "DEBUG", "message": "DoubleNumber ∞ создано." }
+{ "time": "2023-04-15 08:20:28.0018", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение суммы 1 и 2" }
+{ "time": "2023-04-15 08:20:28.0579", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 1" }
+{ "time": "2023-04-15 08:20:28.0579", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:20:28.0579", "level": "DEBUG", "message": "IntNumber 1 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 2" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "IntNumber 2 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "IntNumber 3 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Суммирование LoggerExample.Models.IntNumber и LoggerExample.Models.IntNumber прошло успешно" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 2" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 2" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "DoubleNumber 2 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "DoubleNumber 1,5 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 0" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 0" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:28.0672", "level": "DEBUG", "message": "DoubleNumber 0 создано." }
+{ "time": "2023-04-15 08:20:28.1090", "level": "ERROR", "message": "System.DivideByZeroException: деление на ноль" }
+{ "time": "2023-04-15 08:20:28.1347", "level": "DEBUG", "message": "DoubleNumber ∞ создано." }
+{ "time": "2023-04-15 08:20:39.0043", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение суммы 1 и 2" }
+{ "time": "2023-04-15 08:20:39.0702", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 1" }
+{ "time": "2023-04-15 08:20:39.0702", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:20:39.0702", "level": "DEBUG", "message": "IntNumber 1 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 2" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "IntNumber 2 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "IntNumber 3 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Суммирование LoggerExample.Models.IntNumber и LoggerExample.Models.IntNumber прошло успешно" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 2" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 2" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "DoubleNumber 2 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "DoubleNumber 1,5 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 0" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 0" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:20:39.0814", "level": "DEBUG", "message": "DoubleNumber 0 создано." }
+{ "time": "2023-04-15 08:20:39.1245", "level": "ERROR", "message": "System.DivideByZeroException: деление на ноль" }
+{ "time": "2023-04-15 08:20:39.1572", "level": "DEBUG", "message": "DoubleNumber ∞ создано." }
+{ "time": "2023-04-15 08:21:57.9356", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение суммы 1 и 2" }
+{ "time": "2023-04-15 08:21:57.9995", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 1" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "IntNumber 1 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 2" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "IntNumber 2 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "IntNumber 3 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Суммирование LoggerExample.Models.IntNumber и LoggerExample.Models.IntNumber прошло успешно" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 2" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 2" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "DoubleNumber 2 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "DoubleNumber 1,5 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 0" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 0" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:21:58.0003", "level": "DEBUG", "message": "DoubleNumber 0 создано." }
+{ "time": "2023-04-15 08:21:58.0573", "level": "ERROR", "message": "System.DivideByZeroException: деление на ноль" }
+{ "time": "2023-04-15 08:21:58.0885", "level": "DEBUG", "message": "DoubleNumber ∞ создано." }
+{ "time": "2023-04-15 08:23:02.6673", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение суммы 1 и 2" }
+{ "time": "2023-04-15 08:23:02.7247", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 1" }
+{ "time": "2023-04-15 08:23:02.7247", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:23:02.7247", "level": "DEBUG", "message": "IntNumber 1 создано." }
+{ "time": "2023-04-15 08:23:02.7247", "level": "INFO", "message": "Отправлен запрос id = 777 на поиск 2" }
+{ "time": "2023-04-15 08:23:02.7247", "level": "INFO", "message": "Запрос id = 777 успешно выполнен" }
+{ "time": "2023-04-15 08:23:02.7247", "level": "DEBUG", "message": "IntNumber 2 создано." }
+{ "time": "2023-04-15 08:23:02.7247", "level": "DEBUG", "message": "IntNumber 3 создано." }
+{ "time": "2023-04-15 08:23:02.7247", "level": "INFO", "message": "Суммирование LoggerExample.Models.IntNumber и LoggerExample.Models.IntNumber прошло успешно" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 2" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 2" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "DEBUG", "message": "DoubleNumber 2 создано." }
+{ "time": "2023-04-15 08:23:02.7359", "level": "DEBUG", "message": "DoubleNumber 1,5 создано." }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Пришел запрос id = id_запроса на получение результата деления 3 и 0" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 3" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "DEBUG", "message": "DoubleNumber 3 создано." }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Отправлен запрос id = 888 на поиск 0" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "INFO", "message": "Запрос id = 888 успешно выполнен" }
+{ "time": "2023-04-15 08:23:02.7359", "level": "DEBUG", "message": "DoubleNumber 0 создано." }
+{ "time": "2023-04-15 08:23:02.7759", "level": "ERROR", "message": "System.DivideByZeroException: деление на ноль" }
+{ "time": "2023-04-15 08:23:02.8050", "level": "DEBUG", "message": "DoubleNumber ∞ создано." }

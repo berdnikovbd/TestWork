@@ -1,0 +1,12 @@
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\bin\Debug\net6.0\LoggerCore.deps.json
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\bin\Debug\net6.0\LoggerCore.dll
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\bin\Debug\net6.0\LoggerCore.pdb
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.csproj.AssemblyReference.cache
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.AssemblyInfoInputs.cache
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.AssemblyInfo.cs
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.csproj.CoreCompileInputs.cache
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.dll
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\refint\LoggerCore.dll
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\LoggerCore.pdb
+C:\Users\Bidwim\source\repos\LoggerExample\LoggerCore\obj\Debug\net6.0\ref\LoggerCore.dll
